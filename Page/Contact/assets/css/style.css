@@ -2,7 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #052596; /* Example text color */
+    color: #c64809; /* Example text color */
+    font-weight: bold;
     background-image: url('../../../Contact/assets/img/bg.png');
     background-size: 350px;
     background-position: center;
