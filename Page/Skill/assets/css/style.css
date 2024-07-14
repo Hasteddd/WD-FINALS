@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #050505;
     font-weight: bold;
     background-image: url('../../../Skill/assets/img/background.png');
     background-size: cover;
@@ -40,11 +40,11 @@ nav .buttons {
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #98cb09;
 }
 
 .active {
-    background-color: #0056b3;
+    background-color: #022851;
 }
 
 /* Positioning for buttons */
@@ -127,7 +127,7 @@ h1 {
 }
 
 footer {
-    background-color: #333;
+    background-color: rgba(66, 65, 65, 0.5);
     color: #fff;
     text-align: center;
     padding: 10px 0;
