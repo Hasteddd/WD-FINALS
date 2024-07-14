@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #fffefe; /* Example text color */
+    color: #ffffff; /* Example text color */
     background-image: url('../../../About/assets/img/motor\ bg.png');
     background-size: cover;
     background-position: center;
@@ -23,7 +23,7 @@ nav .buttons {
     margin: 0 10px;
     padding: 10px 20px;
     font-size: 1em;
-    color: #fff;
+    color: #ffffff;
     background-color: #3dc6d5;
     text-decoration: none;
     border-radius: 5px;
