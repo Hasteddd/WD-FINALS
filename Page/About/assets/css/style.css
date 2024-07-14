@@ -63,6 +63,11 @@ h1 {
     height: auto;
     border-radius: 10px;
     margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.about-me-image:hover {
+    transform: scale(1.1); /* Adjust the scale factor as needed */
 }
 
 .main-btn {
