@@ -43,7 +43,7 @@ nav .buttons {
     text-align: center;
     padding: 100px 20px;
     margin: 50px;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    background-color: rgba(185, 182, 182, 0.2); /* Semi-transparent white background */
     border-radius: 10px;
 }
 
@@ -53,7 +53,7 @@ h1 {
 }
 
 .container p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 1.6;
     margin-bottom: 30px;
 }
