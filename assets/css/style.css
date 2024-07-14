@@ -2,12 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background: url('../img/landing\ page.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
 }
 
 header {
-    background-color: #007bff;
+    background-color: rgba(0, 0, 0, 0.8);
     padding: 10px 0;
     text-align: center;
 }
@@ -34,7 +35,10 @@ nav .buttons {
 
 .container {
     text-align: center;
-    padding: 50px;
+    padding: 100px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 50px;
 }
 
 h1 {
@@ -47,8 +51,9 @@ h1 {
     margin-bottom: 30px;
 }
 
-.landing-image {
+.extra-image {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
+    margin-top: 20px;
 }
