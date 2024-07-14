@@ -9,7 +9,6 @@
   <a href="https://github.com/Hasteddd">
   <!-- Logo or Image -->
     <img src="./assets/img/Logo readme.png" alt="logo" width="400" height="400">
-  </a>
 
   <h3 align="center">Finals</h3>
 </div>
