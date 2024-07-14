@@ -12,14 +12,14 @@ body {
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0, 0, 0.5); /* Example header background color */
+    background-color: rgba(0, 0, 0, 0.5); /* Updated header background color */
     padding: 10px 0;
     text-align: center;
 }
 
 nav .buttons {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr); /* Divide into six equal columns */
     gap: 10px;
     justify-content: center;
     padding: 10px;
@@ -45,6 +45,27 @@ nav .buttons {
 
 .active {
     background-color: #0056b3;
+}
+
+/* Positioning for buttons */
+.left-btn {
+    grid-column: span 2; /* Take up two columns */
+    justify-self: start; /* Align to the start (left) */
+}
+
+.center-btn {
+    grid-column: span 2; /* Take up two columns */
+    justify-self: center; /* Align to the center */
+}
+
+.right-btn {
+    grid-column: span 2; /* Take up two columns */
+    justify-self: end; /* Align to the end (right) */
+}
+
+.rightmost-btn {
+    grid-column: span 2; /* Take up two columns */
+    justify-self: end; /* Align to the end (right) */
 }
 
 .container {
