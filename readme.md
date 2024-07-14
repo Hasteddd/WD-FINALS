@@ -137,7 +137,7 @@ WD-Finals
 
 | Title | Purpose | Link |
 |-|-|-|
-| Pinterest     | Logo for header and readme                   | [pinterest.com](https://ph pinterest.com/)                 |             |
+| Pinterest     | image, background and logo                   | [pinterest.com](https://ph pinterest.com/)                 |             |
 | w3schools     | Learning platform for web development        | [w3schools.com](https://www.w3schools.com)          |
 | seatwork 2    | Purpose of seatwork 2                        | [seatwork 2](https://github.com/Hasteddd/WD-Project-Resume)                                |
 | seatwork 3    | Purpose of seatwork 3                        | [seatwork 3](https://github.com/Hasteddd/WD-Seatwork-3)                               |
