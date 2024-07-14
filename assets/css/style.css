@@ -51,9 +51,17 @@ h1 {
     margin-bottom: 30px;
 }
 
-.extra-image {
+.my-pic-image {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
     margin-top: 20px;
+}
+
+/* Additional CSS for adjusting the image size */
+.my-pic-image {
+    width: 50%; /* Adjust this percentage to change the size of the image */
+    max-width: 300px; /* This sets a maximum width for the image */
+    height: auto;
+    border-radius: 10px;
 }
