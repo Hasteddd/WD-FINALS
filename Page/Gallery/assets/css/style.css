@@ -28,7 +28,7 @@ nav .buttons {
     padding: 10px 20px;
     font-size: 1em;
     color: #fff;
-    background-color: #007bff;
+    background-color: #e6d928;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
@@ -36,7 +36,7 @@ nav .buttons {
 }
 
 .btn:hover {
-    background-color: #81eb93;
+    background-color: #650e50;
 }
 
 .active {
@@ -47,7 +47,7 @@ nav .buttons {
     text-align: center;
     padding: 100px 20px;
     margin: 50px auto;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(0, 0, 0, 0, 0, 0.5);
     border-radius: 10px;
     max-width: 1200px;
 }
@@ -86,7 +86,7 @@ h1 {
 }
 
 footer {
-    background-color: #007bff;
+    background-color: rgba(58, 58, 58, 0.7);
     color: #fff;
     text-align: center;
     padding: 10px 0;
