@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #2700d5;
+    color: #000000;
     font-weight: bold;
     background-image: url('../../../Projects/assets/img/bg.png');
     background-size: cover;
@@ -54,7 +54,7 @@ nav .buttons {
     text-align: center;
     padding: 100px 20px;
     margin: 50px auto;
-    background-color: rgba(0, 0, 0, 0, 0, 0.2);
+    background-color: rgba(172, 170, 170, 0.4);
     border-radius: 10px;
     max-width: 1200px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
