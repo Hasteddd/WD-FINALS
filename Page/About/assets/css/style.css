@@ -52,6 +52,12 @@ h1 {
     margin-bottom: 20px;
 }
 
+h2 {
+    font-size: 2.0em;
+    color: #030205;
+    margin-bottom: 20px;
+}
+
 .container p {
     font-size: 1.3em;
     line-height: 1.6;
