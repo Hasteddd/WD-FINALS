@@ -2,9 +2,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333; /* Example text color */
+    color: #000000; /* Example text color */
     background-image: url('../../../Contact/assets/img/bg.png');
-    background-size: cover;
+    background-size: 350px;
     background-position: center;
 }
 
@@ -52,7 +52,7 @@ nav .buttons {
     text-align: center;
     padding: 100px 20px;
     margin: 50px;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    background-color: rgba(0, 0, 0, 0, 0, 0.5); /* Semi-transparent white background */
     border-radius: 10px;
 }
 
