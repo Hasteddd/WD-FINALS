@@ -29,7 +29,7 @@ nav .buttons {
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #81eb93;
 }
 
 .active {
@@ -56,7 +56,7 @@ h1 {
 }
 
 .about-me-image {
-    max-width: 100%;
+    max-width: 20%;
     height: auto;
     border-radius: 10px;
     margin-bottom: 20px;
