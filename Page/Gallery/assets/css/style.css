@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-image: url('../../../Contact/assets/img/bg.png');
-    background-size: 350px;
+    background-image: url('../../../Gallery/assets/img/new\ bg\ 1.png');
+    background-size: cover;
     background-position: center;
 }
 
