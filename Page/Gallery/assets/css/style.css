@@ -55,6 +55,13 @@ nav .buttons {
 
 h1 {
     font-size: 2.5em;
+    color: #030205;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2.0em;
+    color: #030205;
     margin-bottom: 20px;
 }
 
