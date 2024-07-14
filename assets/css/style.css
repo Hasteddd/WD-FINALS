@@ -50,7 +50,13 @@ h1 {
 .description {
     font-size: 1.2em;
     margin-bottom: 30px;
+    position: absolute; /* Position description absolutely */
+    left: 20px; /* Adjust this value to position description as needed */
+    top: 50%; /* Align description vertically */
+    transform: translateY(-50%); /* Center vertically */
+    width: calc(50% - 40px); /* Calculate width based on container and margin */
 }
+
 
 .my-pic-image {
     max-width: 100%;
