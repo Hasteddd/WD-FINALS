@@ -2,8 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Example background color */
     color: #333; /* Example text color */
+    background-image: url('../../../Contact/assets/img/bg.png');
+    background-size: cover;
+    background-position: center;
 }
 
 header {
