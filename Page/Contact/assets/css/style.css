@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #007bff; /* Example header background color */
+    background-color: rgb(0, 0, 0, 0.7); /* Example header background color */
     padding: 10px 0;
     text-align: center;
 }
